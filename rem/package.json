@@ -1,0 +1,23 @@
+{
+  "name": "webmoblie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --watch"
+  },
+  "author": "fengxiong",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^0.28.11",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.20.3",
+    "url-loader": "^0.6.2",
+    "webpack": "^4.29.4"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.3"
+  }
+}
